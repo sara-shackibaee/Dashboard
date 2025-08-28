@@ -3,7 +3,13 @@ This project includes nextjs, shadcnUi, React-Hook-Form, zod and has a landing p
 The images of the pages are as follows:
 dashboard page:
 
-<img width="1900" height="881" alt="1" src="https://github.com/user-attachments/assets/7f4b72fd-614d-4910-9d79-60930235d0e5" />
+<img width="1920" height="772" alt="5" src="https://github.com/user-attachments/assets/976cd900-5f84-4c73-9e47-04b10694c2d1" />
+
+
+
+
+<img width="1900" height="881" alt="1" src="https://github.com/user-attachments/assets/2b7428fb-6071-446f-a12d-a570f5645343" />
+
 
 
 login page:
