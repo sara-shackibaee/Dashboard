@@ -1,6 +1,8 @@
 This project includes nextjs, shadcnUi, React-Hook-Form, zod and has a landing page, login and sign up pages and then a dashboard page with its details is displayed. It was a great experience working with shadcn.
 
 The images of the pages are as follows:
+
+
 dashboard page:
 
 <img width="1920" height="772" alt="5" src="https://github.com/user-attachments/assets/976cd900-5f84-4c73-9e47-04b10694c2d1" />
