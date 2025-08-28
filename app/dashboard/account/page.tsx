@@ -1,5 +1,3 @@
-
-
-export default function AccountPage(){
-    return(<>account page</>)
+export default function AccountPage() {
+  return <>account page</>;
 }

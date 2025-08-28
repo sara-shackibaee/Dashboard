@@ -1,5 +1,3 @@
-
-
-export default function Employee(){
-    return(<>employee</>)
+export default function Employee() {
+  return <>employee</>;
 }

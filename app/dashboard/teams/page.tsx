@@ -1,6 +1,3 @@
-
-
-
-export default function TeamPage(){
-    return(<>teampage</>)
+export default function TeamPage() {
+  return <>teampage</>;
 }
